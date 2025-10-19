@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DPM225414_TranNamDat_Refactory03_ExtractVariable_before/1.0.0": {
+        "runtime": {
+          "DPM225414_TranNamDat_Refactory03_ExtractVariable_before.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM225414_TranNamDat_Refactory03_ExtractVariable_before/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "namespace DPM225414_TranNamDat_Refactory06_SplitTemporaryVariable_after/1.0.0": {
+        "runtime": {
+          "namespace DPM225414_TranNamDat_Refactory06_SplitTemporaryVariable_after.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "namespace DPM225414_TranNamDat_Refactory06_SplitTemporaryVariable_after/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TranNamDat_Refactory05_ReplaceTempwithQuery_before", "DPM225414_TranNamDat_Refactory05_ReplaceTempwithQuery_before.csproj", "{44D96793-42F7-498D-A952-9AC1FE7EA21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D96793-42F7-498D-A952-9AC1FE7EA21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D96793-42F7-498D-A952-9AC1FE7EA21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D96793-42F7-498D-A952-9AC1FE7EA21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D96793-42F7-498D-A952-9AC1FE7EA21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA5D402-066C-44F5-9C8E-3C9E924BD18D}
+	EndGlobalSection
+EndGlobal
