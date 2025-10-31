@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TanNamDat_Refactory13_InlineClass_after", "DPM225414_TanNamDat_Refactory13_InlineClass_after.csproj", "{C60C5539-7A99-405D-B79C-D8B8894F06FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60C5539-7A99-405D-B79C-D8B8894F06FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C5539-7A99-405D-B79C-D8B8894F06FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C5539-7A99-405D-B79C-D8B8894F06FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C5539-7A99-405D-B79C-D8B8894F06FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8233DE-DA79-4449-A399-C7A1C32A24FD}
+	EndGlobalSection
+EndGlobal
