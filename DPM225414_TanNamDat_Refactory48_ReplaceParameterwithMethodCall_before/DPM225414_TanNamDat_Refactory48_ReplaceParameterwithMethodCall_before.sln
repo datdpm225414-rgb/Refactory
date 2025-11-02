@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TanNamDat_Refactory48_ReplaceParameterwithMethodCall_before", "DPM225414_TanNamDat_Refactory48_ReplaceParameterwithMethodCall_before.csproj", "{E71C173E-BA44-42B8-A520-4FE302D405B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71C173E-BA44-42B8-A520-4FE302D405B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71C173E-BA44-42B8-A520-4FE302D405B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71C173E-BA44-42B8-A520-4FE302D405B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71C173E-BA44-42B8-A520-4FE302D405B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D928E9-1D4A-4325-913B-337433D37EC9}
+	EndGlobalSection
+EndGlobal
