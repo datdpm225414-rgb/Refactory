@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225452_DoanTrongNhan_39_IntroduceNullObject_1", "DPM225452_DoanTrongNhan_39_IntroduceNullObject_1\DPM225452_DoanTrongNhan_39_IntroduceNullObject_1.csproj", "{05F7A1E7-D403-4BA3-8C68-BC8ECB927B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F7A1E7-D403-4BA3-8C68-BC8ECB927B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F7A1E7-D403-4BA3-8C68-BC8ECB927B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F7A1E7-D403-4BA3-8C68-BC8ECB927B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F7A1E7-D403-4BA3-8C68-BC8ECB927B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93B7F3F-8BC0-477B-8DEC-5E14EACAA0AC}
+	EndGlobalSection
+EndGlobal
