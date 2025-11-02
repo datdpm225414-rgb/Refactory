@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TanNamDat_Refactory54_ReplaceExceptionwithTest_after", "DPM225414_TanNamDat_Refactory54_ReplaceExceptionwithTest_after.csproj", "{40A5386F-5EA0-46B9-98CB-8088B15BA202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A5386F-5EA0-46B9-98CB-8088B15BA202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A5386F-5EA0-46B9-98CB-8088B15BA202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A5386F-5EA0-46B9-98CB-8088B15BA202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A5386F-5EA0-46B9-98CB-8088B15BA202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C8653B-0B71-4651-8DAF-2FCB0348C526}
+	EndGlobalSection
+EndGlobal
