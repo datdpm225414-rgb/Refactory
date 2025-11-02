@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TanNamDat_Refactory60_ExtractSubclass_before", "DPM225414_TanNamDat_Refactory60_ExtractSubclass_before.csproj", "{B2E1E2A6-C193-431E-902C-2979C0C8261C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E1E2A6-C193-431E-902C-2979C0C8261C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E1E2A6-C193-431E-902C-2979C0C8261C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E1E2A6-C193-431E-902C-2979C0C8261C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E1E2A6-C193-431E-902C-2979C0C8261C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFECFBC-A728-4DA0-B276-6199358B3FEE}
+	EndGlobalSection
+EndGlobal
