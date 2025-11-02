@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TanNamDat_Refactory56_PullUpMethod_after", "DPM225414_TanNamDat_Refactory56_PullUpMethod_after.csproj", "{4A032B7F-C6D7-4904-97E4-3970B4AD8117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A032B7F-C6D7-4904-97E4-3970B4AD8117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A032B7F-C6D7-4904-97E4-3970B4AD8117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A032B7F-C6D7-4904-97E4-3970B4AD8117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A032B7F-C6D7-4904-97E4-3970B4AD8117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE8FDB3-292D-4D54-8BBE-0E45152EEE0C}
+	EndGlobalSection
+EndGlobal
