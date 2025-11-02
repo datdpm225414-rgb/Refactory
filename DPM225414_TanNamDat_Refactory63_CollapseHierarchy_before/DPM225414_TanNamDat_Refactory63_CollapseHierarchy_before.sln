@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TanNamDat_Refactory63_CollapseHierarchy_before", "DPM225414_TanNamDat_Refactory63_CollapseHierarchy_before.csproj", "{395D254D-87BA-4A22-B70D-FC5C94604E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395D254D-87BA-4A22-B70D-FC5C94604E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395D254D-87BA-4A22-B70D-FC5C94604E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395D254D-87BA-4A22-B70D-FC5C94604E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395D254D-87BA-4A22-B70D-FC5C94604E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC2BE05-E0DE-487C-BF81-780245C7EE53}
+	EndGlobalSection
+EndGlobal
